@@ -1,0 +1,9 @@
+pulp
+cvxpy
+deap
+numpy
+time
+random
+matplotlib
+# rpy2  # only to run python and R together in notebook
+# tzlocal  # only to run python and R together in notebook
